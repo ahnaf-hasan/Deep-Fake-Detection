@@ -26,4 +26,4 @@ FaceForensics (official dataset)
 
 ---
 
-**Note:** This dataset is intended for research and educational purposes only.
+**Note:** This dataset is intended for educational and research purposes only.
